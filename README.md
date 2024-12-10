@@ -187,14 +187,20 @@ una identificación rápida en su uso.
   - Excels preprocesados:
     - Ctg-D06.xlsx (Eficicias de tipos de vehiculo por tipo de combustible)  
     - Fuente: tabla creada con la ayuda de chat GPT
-    - Ctg-D0.xlsx (Tablas de precios)
+    - Ctg-D07.xlsx (Tablas de precios)
+    - Fuente: chat GPT
+    - Ctg-B04.xlsx (Datos vehiculos combustion promedio)
     - Fuente: chat GPT
 
 ### Resultados:
   - Dataframes:
     - df30 (eficiencia y costes de tipos de vehiculos a los 100Km)
     - df33 (precios)
+    - df100
+    - df101
     - df30_copy
+    - df100_copy
+    - df101_copy
 
 ## **Informacion** (transicion completa del parque de Veh a EV para el 2050)
 
